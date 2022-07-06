@@ -6,3 +6,11 @@ com/zhouyu/service/UserService.java
  com.zhouyu.service.UserService
 com/zhouyu/Test.java
  com.zhouyu.Test
+com/grey/proxy/example/JdkProxy.java
+ com.grey.proxy.example.JdkProxy
+com/grey/proxy/example/UserManager.java
+ com.grey.proxy.example.UserManager
+com/grey/proxy/example/UserManagerImpl.java
+ com.grey.proxy.example.UserManagerImpl
+com/grey/proxy/example/CglibProxy.java
+ com.grey.proxy.example.CglibProxy
